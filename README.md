@@ -39,5 +39,7 @@ npm run dev
 
 4. Acceder a la Aplicación:
 
+Abrir la ruta del Frontend: "http://localhost:5173"
+
 - Backend API: http://localhost:3000
 - Frontend: http://localhost:5173
